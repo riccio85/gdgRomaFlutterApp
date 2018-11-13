@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:date_format/date_format.dart';
-import 'package:gdg_roma_flutter_app/events/eventRecord.dart';
-import 'package:gdg_roma_flutter_app/events/eventPage.dart';
+import 'package:gdg_roma_flutter_app/events/event_record.dart';
+import 'package:gdg_roma_flutter_app/events/event_page.dart';
 
 final textColor = Colors.blueGrey;
 final subtitleColor = Colors.deepOrange[900];

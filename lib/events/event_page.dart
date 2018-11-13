@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gdg_roma_flutter_app/events/eventRecord.dart';
+import 'package:gdg_roma_flutter_app/events/event_record.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:share/share.dart';
 

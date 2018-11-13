@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'MyMainMenuPage.dart';
+import 'my_main_menu_page.dart';
 
 import 'package:gdg_roma_flutter_app/events/events_route.dart';
 
@@ -10,7 +10,8 @@ void main() {
     initialRoute: '/',
     routes: {
       '/': (context) => MyApp(),
-      '/events': (context) => EventsRoute(),
+      //'/events': (context) => EventsRoute(),
+      //'/chi_siamo': (context) => ChiSiamoRoute(),
     },
   ));
 }

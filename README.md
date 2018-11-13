@@ -1,8 +1,6 @@
 # gdg_roma_flutter_app
 
-A new Flutter application.
+This is a Flutter Demo App
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
